@@ -72,3 +72,4 @@ live link: https://mohanx-0001.github.io/itzfizz-assignment/
 ## 📌 Note
 
 This is a demo project created for learning and evaluation purposes.
+If you found this helpful, drop a ⭐ on the repo — it means a lot!
