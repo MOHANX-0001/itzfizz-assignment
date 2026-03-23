@@ -65,6 +65,7 @@ This project was created as part of an internship evaluation to demonstrate fron
 
 **Mohan**
 GitHub: https://github.com/MOHANX-0001
+live link: https://mohanx-0001.github.io/itzfizz-assignment/
 
 ---
 
